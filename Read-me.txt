@@ -1,0 +1,10 @@
+Para colocar a imagem de background e icon deve criar o seguinte diretorio:
+./img/website-background/(arquivo JPG que está no repositorio) #background
+./img/icon/(arquivo PNG que está no repositorio) #icon
+
+Formato da pasta:
+./img
+    /icon
+        moon-rover.png
+    /website-background
+        Azul.jpg
